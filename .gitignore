@@ -1,2 +1,6 @@
-mavsdk/
+mavsdk/bin
+mavsdk/include
+mavsdk/lib
+x64/Debug
+x64/Release
 .vs/
